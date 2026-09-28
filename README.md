@@ -3,7 +3,7 @@
 A statistician bridging statistical modeling, data analytics, and software development. Passionate about uncovering data-driven insights and building practical software solutions.
 
 🎓Education & Focus
--  **B.S. in Statistics**gi
+-  **B.S. in Statistics**
 -  Exploratory data analysis, hypothesis testing, and statistical modeling
 -  Data visualization and reporting (primarily using R)
 -  Continuously refining my skills in practical data analytics and modern data tools
