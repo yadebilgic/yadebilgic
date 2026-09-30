@@ -2,15 +2,19 @@
 
 A statistician bridging statistical modeling, data analytics, and software development. Passionate about uncovering data-driven insights and building practical software solutions.
 
-🎓Education & Focus
--  **B.S. in Statistics**
--  Exploratory data analysis, hypothesis testing, and statistical modeling
--  Data visualization and reporting (primarily using R)
--  Continuously refining my skills in practical data analytics and modern data tools
 
-🛠️ Tech Stack & Tools
+### 🎓 Education & Academic Focus
+- **B.S. in Statistics** – Mimar Sinan Fine Arts University
+- **Multivariate Statistical Analysis:** Dimensionality reduction (PCA, Factor Analysis), clustering (K-Means, Hierarchical), discriminant analysis, and MANOVA
+- **Categorical Data & Predictive Modeling:** Multiple Correspondence Analysis (MCA via Adjusted Burt Matrix), Multinomial & Binary Logistic Regression
+- **Domain Focus:** Biostatistics, clinical trial evaluation, and public health microdata analytics
+- **Visualization & Reporting:** Reproducible research, publication-grade factor maps, biplots, and statistical reporting in R
+
+
+### 🛠️ Tech Stack & Tools
 **Languages & Analysis:**  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-005C8A?style=for-the-badge&logo=sas&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -19,5 +23,12 @@ A statistician bridging statistical modeling, data analytics, and software devel
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📬 Connect With Me
+
+### 🔬 Featured Research & Projects
+
+- **[Public Trust in Traditional & Complementary Medicine](./repo-linki):** Academic working paper analyzing Wellcome Global Monitor survey microdata ($N=790$) using Adjusted Burt Matrix MCA and Multinomial Logistic Regression.
+- **[ACTG 175 Clinical Trial Multivariate Analysis](./repo-linki):** Comprehensive biostatistical evaluation of HIV-1 disease progression ($N=2,139$) using MANOVA, PCA, Factor, Cluster, and Logistic Regression models.
+
+  
+### 📬 Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadeirem2004@gmail.com)
