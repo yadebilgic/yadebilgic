@@ -31,4 +31,4 @@ A statistician bridging statistical modeling, data analytics, and software devel
 
   
 ### 📬 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadeirem2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadebilgc@gmail.com)
