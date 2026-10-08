@@ -26,10 +26,10 @@ A statistician bridging statistical modeling, data analytics, and software devel
 
 ### 🔬 Featured Research & Projects
 
--**[Public Trust in Traditional & Complementary Medicine](https://github.com/yadebilgic/traditional-medicine-trust-analysis):** Academic working paper analyzing Wellcome Global Monitor survey microdata ($N=790$) using Adjusted Burt Matrix MCA and Multinomial Logistic Regression.
--**[ACTG 175 Clinical Trial Multivariate Analysis](https://github.com/yadebilgic/actg175-hiv-multivariate-analysis):** Comprehensive biostatistical evaluation of HIV-1 disease progression ($N=2,139$) using MANOVA, PCA, Factor, Cluster, and Logistic Regression models.
--**[Telco Customer Churn Analysis](https://github.com/yadebilgic/telco-churn-analysis):** Categorical data analysis & predictive modeling ($N=7,043$) uncovering churn drivers via MCA and Logistic Regression in R and SPSS.
--**[Longitudinal Life Satisfaction Poster](https://github.com/yadebilgic/tuik-life-satisfaction-poster):** Academic statistical poster analyzing TÜİK microdata (2003–2025) using `ggplot2` and `tidyverse`.
+- **[Public Trust in Traditional & Complementary Medicine](https://github.com/yadebilgic/traditional-medicine-trust-analysis):** Academic working paper analyzing Wellcome Global Monitor survey microdata ($N=790$) using Adjusted Burt Matrix MCA and Multinomial Logistic Regression.
+- **[ACTG 175 Clinical Trial Multivariate Analysis](https://github.com/yadebilgic/actg175-hiv-multivariate-analysis):** Comprehensive biostatistical evaluation of HIV-1 disease progression ($N=2,139$) using MANOVA, PCA, Factor, Cluster, and Logistic Regression models.
+- **[Telco Customer Churn Analysis](https://github.com/yadebilgic/telco-churn-analysis):** Categorical data analysis & predictive modeling ($N=7,043$) uncovering churn drivers via MCA and Logistic Regression in R and SPSS.
+- **[Longitudinal Life Satisfaction Poster](https://github.com/yadebilgic/tuik-life-satisfaction-poster):** Academic statistical poster analyzing TÜİK microdata (2003–2025) using `ggplot2` and `tidyverse`.
 
   
 ### 📬 Connect With Me
